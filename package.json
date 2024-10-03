@@ -1,0 +1,21 @@
+{
+  "name": "winter-vscode-theme",
+  "displayName": "Winter CMS Theme",
+  "description": "A Visual Studio Code theme based on the branding colors of Winter CMS",
+  "version": "1.0.0",
+  "engines": {
+    "vscode": "^1.93.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Winter",
+        "uiTheme": "vs-dark",
+        "path": "./themes/winter-color-theme.json"
+      }
+    ]
+  }
+}
