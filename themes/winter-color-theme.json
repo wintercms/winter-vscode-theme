@@ -568,7 +568,8 @@
     {
       "scope": [
         "entity.name",
-        "source.js meta.function-call.constructor variable.type"
+        "source.js meta.function-call.constructor variable.type",
+        "support.class.component.vue"
       ],
       "settings": {
         "foreground": "#5dbded",
