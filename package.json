@@ -3,7 +3,7 @@
   "displayName": "Winter CMS Theme",
   "publisher": "wintercms",
   "description": "A Visual Studio Code theme based on the branding colors of Winter CMS",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "keywords": [
     "winter",
     "wintercms",
@@ -16,14 +16,14 @@
   "license": "MIT",
   "homepage": "https://wintercms.com/",
   "bugs": {
-      "url": "https://github.com/wintercms/winter-vscode-theme/issues"
+    "url": "https://github.com/wintercms/winter-vscode-theme/issues"
   },
   "repository": {
-      "type": "git",
-      "url": "https://github.com/wintercms/winter-vscode-theme.git"
+    "type": "git",
+    "url": "https://github.com/wintercms/winter-vscode-theme.git"
   },
   "sponsor": {
-      "url": "https://github.com/sponsors/wintercms"
+    "url": "https://github.com/sponsors/wintercms"
   },
   "engines": {
     "vscode": "^1.93.0"
